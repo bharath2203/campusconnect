@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "326160259529",
+    "firebase_url": "https://campusconnect-9492e.firebaseio.com",
+    "project_id": "campusconnect-9492e",
+    "storage_bucket": "campusconnect-9492e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:326160259529:android:c5fe8fa12b6d875fafb018",
+        "android_client_info": {
+          "package_name": "com.example.campusconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "326160259529-fffb1tirr6f73bnppeclbnoijq8in76e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClHlOvfZNAJbNsw0YTN_xZM7O76UUbAkg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "326160259529-fffb1tirr6f73bnppeclbnoijq8in76e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
